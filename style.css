@@ -1,0 +1,37 @@
+.title {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 50px;
+}
+#link {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.title.smaller {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.Ingredients {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+.steps {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+#moussaka {
+    width: 370px;
+    height: auto;
+    
+}
+.Description {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+#ounakookp {
+    width: 200px;
+    height: auto;
+}
+#sobrapaevakookp {
+    width: auto;
+    height: 200px;
+}
