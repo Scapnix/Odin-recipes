@@ -35,3 +35,26 @@
     width: auto;
     height: 200px;
 }
+#Maint {
+    border: 8px solid black;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: rgb(91, 91, 255);
+    text-align-last: center;
+}
+#link{
+    width: 200px;
+    height: 100px;
+    border: 8px solid black;
+    padding: 18px;
+    margin-top: 90px;
+    border-radius: 25px;
+    list-style-type: none;
+    background-color: lightblue;
+}
+#chef  {
+    width: auto;
+    height: 300px;
+    border: 8px black;
+    border-radius: 15px 50px;
+}
